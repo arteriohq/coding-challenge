@@ -43,10 +43,7 @@ Enhance the configurator by:
 ## Technical Specifications
 
 - Use React with TypeScript
-- For styling you can use Tailwind
-- Implement responsive design principles
-- Focus on code cleanliness and maintainability
-- Include proper error handling for user inputs
+- For styling you can use Tailwind but using css files is also fine
 - Ensure smooth performance with real-time updates
 
 ## Evaluation Criteria
